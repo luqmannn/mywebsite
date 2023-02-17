@@ -1,0 +1,70 @@
+theme: charlolamode
+
+menu:
+    main:
+        - name: Tutorial
+          url: /tutorial/
+          weight: 30
+        - name: Articles
+          url: /articles/
+          weight: 20
+        - name: Projects
+          url: /projects/
+          weight: 15
+
+params:
+    author: ed25519
+
+    profileMode:
+        # Disable to populate home page with 'mainSections' content
+        enabled: true
+        title: Luqman H.
+        description: |
+
+          Hello, welcome to my corner of the internet.
+
+          I am an open source enthusiast and a CS grad.
+
+          However, I can also work with closed soure or proprietary stuff (Windows).
+
+          As the saying goes, use any tool prefered at the disposal to get the job done.
+        imageUrl: "/images/profile.png"
+        imageTitle: my image
+        # imageWidth: 120
+        # imageHeight: 120
+        buttons:
+            - name: Don't click me
+              url: https://www.youtube.com/watch?v=r9oJHpeCmHU
+    mainSections:
+      - tutorial
+
+    socialIcons:
+        - name: buymeacoffee
+          url: "https://ko-fi.com/"
+        - name: github
+          url: "https://github.com/luqmannn/"
+        
+      # add more social icons. find more in svg.html file
+      # - name: youtube
+      #   url: yoururl
+      # - name: twitter
+      #   url: yoururl
+      # - name: facebook
+      #   url: yoururl
+
+
+    # change favicon in images folder (icon for web tab)
+    assets:
+          favicon: "/images/favicon.ico"
+          favicon16x16: "/images/favicon-16x16.png"
+          favicon32x32: "/images/favicon-32x32.png"
+          apple_touch_icon: "/images/apple-touch-icon.png"
+          safari_pinned_tab: "/images/apple-touch-icon.png"
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+enableEmoji: true
+pygmentsUseClasses: true
+
+minify:
+    disableXML: true
