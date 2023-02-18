@@ -1,6 +1,5 @@
 baseURL: luqmannn.xyz
 title: Luqman's website
-paginate: 5
 theme: charlolamode
 
 menu:
@@ -10,10 +9,10 @@ menu:
           weight: 30
         - name: Articles
           url: /articles/
-          weight: 30
+          weight: 20
         - name: Projects
           url: /projects/
-          weight: 30
+          weight: 15
 
 params:
     author: luqmannn
