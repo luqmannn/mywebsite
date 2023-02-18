@@ -1,3 +1,6 @@
+baseURL: luqmannn.xyz
+title: Luqman's website
+paginate: 5
 theme: charlolamode
 
 menu:
@@ -7,13 +10,13 @@ menu:
           weight: 30
         - name: Articles
           url: /articles/
-          weight: 20
+          weight: 30
         - name: Projects
           url: /projects/
-          weight: 15
+          weight: 30
 
 params:
-    author: ed25519
+    author: luqmannn
 
     profileMode:
         # Disable to populate home page with 'mainSections' content
