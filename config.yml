@@ -27,7 +27,7 @@ params:
 
           I am an open source enthusiast and a CS grad.
 
-          However, I can also work with closed soure or proprietary stuff (Windows).
+          However, I can also work with closed source or proprietary stuff (Windows).
 
           As the saying goes, use any tool prefered at the disposal to get the job done.
         imageUrl: "/images/profile.png"
@@ -42,7 +42,7 @@ params:
 
     socialIcons:
         - name: buymeacoffee
-          url: "https://ko-fi.com/"
+          url: "https://ko-fi.com/luqmannnh"
         - name: github
           url: "https://github.com/luqmannn/"
         
