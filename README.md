@@ -5,7 +5,7 @@ enough for my needs.
 
 ## Things to do later
 - [ ] Move all the tab from right to centre.
-- [/] Remove bottom word built with ♥ from charlola and LinkedIn share buttons from all pages.
+- [x] Remove bottom word built with ♥ from charlola and LinkedIn share buttons from all pages.
 - [ ] Fix Home link does not return back to Home in Articles, Projects, Tutorial.
 - [ ] Remove the template (surprise and math braintrainer) from Articles and Projects.
 - [ ] Change the order of Articles, Project, Tutorial to Tutorial, Project, Articles.
