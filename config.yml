@@ -17,8 +17,8 @@ menu:
 params:
     author: luqmannn
 
-    #ShowBreadCrumbs: true
-    
+    ShowBreadCrumbs: false
+
     profileMode:
         # Disable to populate home page with 'mainSections' content
         enabled: true
