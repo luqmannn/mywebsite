@@ -8,5 +8,5 @@ enough for my needs.
 - [x] Remove bottom word built with ♥ from charlola and LinkedIn share buttons from all pages.
 - [x] Fix Home link does not return back to Home and disable breadcrumbs.
 - [ ] Remove the template (surprise and math braintrainer) from Articles and Projects.
-- [ ] Change the order of Articles, Project, Tutorial to Tutorial, Project, Articles.
+- [x] Change the order of Articles, Project, Tutorial to Tutorial, Project, Articles.
 - [ ] Change fonts in certain part.
