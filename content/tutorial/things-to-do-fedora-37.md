@@ -122,14 +122,15 @@ sudo dnf install jetbrains-mono-fonts-all neofetch tldr ffmpeg mpv gsmartcontrol
 - Edit libvirtd permission
 `sudo vim /etc/libvirt/libvirtd.conf`
 - Enable the line below by uncomment, then save the file and exit
-```
+```{sh}
 unix_sock_group = "libvirt"
 unix_sock_ro_perms = "0777"
 unix_sock_rw_perms = "0770"
 ```
-```
+
+To installs the virtualization software package from the DNF package manager, the "@" symbol indicates that the package is a group package, which installs multiple packages at once. In this case, it installs the necessary packages for virtualization.Then we need to adds the user specified by "username" to the "libvirt" group. This is necessary to allow the user to manage virtual machines. Then, enables the "libvirtd" service to start automatically at boot and starts the service immediately.
+```{sh}
 sudo dnf install @virtualization
 sudo usermod -aG libvirt username
-sudo systemctl start libvirtd
 sudo systemctl enable --now libvirtd
 ```
