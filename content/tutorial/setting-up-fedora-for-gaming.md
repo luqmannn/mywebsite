@@ -13,6 +13,12 @@ sudo dnf install steam
 - Open Steam > Settings > Steam Play > **Enable Steam Play** for all and supported titles.
 
 ### Install ProtonUp-Qt to use ProtonGE (custom version of Proton)
+Proton is a tool for use with the Steam client which allows games which are exclusive to Windows to run on the Linux operating system. It is based on WINE, which is a cross compatability layer that allows Windows program to interface with Linux. The difference between ProtonGE and Valve's Proton is it provides many things that Valve's Proton does not including:
+- Nvidia CUDA support for PhysX and NVAPI.
+- Various upstream WINE patches backported.
+- Various upstream WINE patches backported
+
+You can read all of the details in [here](https://github.com/GloriousEggroll/proton-ge-custom)
 ```{sh}
 flatpak install flathub net.davidotek.pupgui2
 ```
@@ -29,11 +35,13 @@ flatpak install flathub net.davidotek.pupgui2
 ```
 
 ### Install Piper to configure gaming mice
+Piper is a GTK+ application to configure gaming mice. It is merely a frontend, the list of supported devices depends on libratbag which you can check [here](https://github.com/libratbag/libratbag/tree/master/data/devices). The device-specific protocols usually have to be reverse-engineered and the features available may vary to the manufacturer's advertized features.
 ```{sh}
 sudo dnf install piper
 ```
 
 ### Install GOverlay for performance monitoring
+GOverlay is an opensource project that aims to create a Graphical UI to help manage Linux overlays. Basically if you want to benchmark and monitor all sort of stuff including FPS, temperature and utilization during gaming sessions.
 ```{sh}
 sudo dnf install goverlay
 ```
