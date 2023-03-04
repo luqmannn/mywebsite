@@ -38,6 +38,8 @@ To connect to the remote machine using specific private key.
 ```{sh}
 ssh -i ~/.ssh/id_ed25519 username@ip_address
 ```
+
+To connect to the remote machine as usual, if there is only one key.
 ```{sh}
 ssh username@ip_address
 ```
