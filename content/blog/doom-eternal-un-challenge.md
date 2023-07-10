@@ -16,7 +16,6 @@ The demons are just as deadly as in the normal Nightmare mode, but this time the
 To be honest, I have lost count of how many times I have died in the game, as you get used to it after playing for hundreds of hours. The game is truly beautiful and mesmerizing to watch when played at a high skill level. It is unlike any other FPS or shooting game before it, except for a few games that came after DOOM Eternal and tried to emulate its formula of fast-paced and push-forward combat.
 
 ![My UN Campaign Gameplay Pt 1](https://www.youtube.com/watch?v=4su2MqY3vjA)
-
 ![My UN Campaign Gameplay Pt 2](https://www.youtube.com/watch?v=s51ixn-qb5A&t=1971s)
 
 Fortunately, I have developed a habit of recording my gameplay for future reference, so that other people who want to attempt a similar challenge may find it useful. There are already many guides available to help you succeed in Ultra Nightmare mode and obtain that coveted gold slayer skin to show off to your friends. I will provide links to all of them below, along with my current keybindings.
@@ -24,8 +23,6 @@ Fortunately, I have developed a habit of recording my gameplay for future refere
 ![gold-slayer](https://steamuserimages-a.akamaihd.net/ugc/2046369901415547123/B2A509C1939B611B940AE52EF433F1536C6492AF/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 Setting comfortable keybindings is crucial because in order to excel at this game, players need to shoot and move simultaneously without having to stop during intense combat encounters until all the demons in an arena are eliminated. This is especially important in the DLC and master levels, which are more difficult and challenging. Some key considerations for keybindings include determining your preferred weapon combos.
-
-![DOOM ETERNAL - Heavy Demon Combos (RE-UPLOAD)](https://www.youtube.com/watch?v=qTd4WXAuiO8)
 
 - Ballista + SSG  (good damage against Marauder, easiest combo)
 - PB + Ballista (effective long range attack against flying demon (Caco & Pain))
@@ -57,24 +54,16 @@ Dash | Left Shift
 For me, ever since discovering the Heavy Cannon's Precision Bolt mod capability, I have been able to quickly switch between weapons for fast weapon combos that can eliminate super heavy demons within a short period of time. Some players choose to use the default keybindings and assign the weapon keys to numbers close to the movement keys, as that is what they are comfortable with.
 
 ### Guide
-![Exhaustive step-by-step guide for Ultra Nightmare](https://steamcommunity.com/sharedfiles/filedetails/?id=2093154742)
-
-![DOOM Eternal 100% Achievement Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2031543270)
-
-![DOOM Eternal Written Guide/Walkthrough](https://steamcommunity.com/sharedfiles/filedetails/?id=2036142586)
-
+- [Exhaustive step-by-step guide for Ultra Nightmare](https://steamcommunity.com/sharedfiles/filedetails/?id=2093154742)
+- [DOOM Eternal 100% Achievement Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2031543270)
+- [DOOM Eternal Written Guide/Walkthrough](https://steamcommunity.com/sharedfiles/filedetails/?id=2036142586)
 
 ### Fastest Gameplay
-![Absolutemassive [WR] 1:41:46 - Doom Eternal 100% Ultra-Nightmare Restricted](https://www.youtube.com/watch?v=RdMDSUJ9Dpw)
-
-![MuteD6 1:43:44 - Doom Eternal 100% Ultra-Nightmare Restricted](https://www.youtube.com/watch?v=Rp_ut895PPY)
-
-![Zero Master 2:22:11 - Doom Eternal - 100% Ultra-Nightmare](https://www.youtube.com/watch?v=01nJjaKlJhU)
-
+- [Absolutemassive [WR] 1:41:46 - Doom Eternal 100% Ultra-Nightmare Restricted](https://www.youtube.com/watch?v=RdMDSUJ9Dpw)
+- [MuteD6 1:43:44 - Doom Eternal 100% Ultra-Nightmare Restricted](https://www.youtube.com/watch?v=Rp_ut895PPY)
+- [Zero Master 2:22:11 - Doom Eternal - 100% Ultra-Nightmare](https://www.youtube.com/watch?v=01nJjaKlJhU)
 
 ### Insanely Difficult Challenge (Modded Content)
-![DOOM Eternal - All Bosses (NO DAMAGE)](https://www.youtube.com/watch?v=2Nfbt8hfH-Y)
-
-![This Encounter is WAY HARDER without the MOST POWERFUL Weapons | DOOM Eternal](https://www.youtube.com/watch?v=4cbRbDOaMac)
-
-![Beating the Hardest DOOM Eternal Custom Master Level on Ultra Nightmare!](https://www.youtube.com/watch?v=4kt8lOXs-2k&t=1050s)
+- [DOOM Eternal - All Bosses (NO DAMAGE)](https://www.youtube.com/watch?v=2Nfbt8hfH-Y)
+- [This Encounter is WAY HARDER without the MOST POWERFUL Weapons | DOOM Eternal](https://www.youtube.com/watch?v=4cbRbDOaMac)
+- [Beating the Hardest DOOM Eternal Custom Master Level on Ultra Nightmare!](https://www.youtube.com/watch?v=4kt8lOXs-2k&t=1050s)
