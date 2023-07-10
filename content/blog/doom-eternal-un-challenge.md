@@ -15,8 +15,8 @@ The demons are just as deadly as in the normal Nightmare mode, but this time the
 
 To be honest, I have lost count of how many times I have died in the game, as you get used to it after playing for hundreds of hours. The game is truly beautiful and mesmerizing to watch when played at a high skill level. It is unlike any other FPS or shooting game before it, except for a few games that came after DOOM Eternal and tried to emulate its formula of fast-paced and push-forward combat.
 
-![My UN Campaign Gameplay Pt 1](https://www.youtube.com/watch?v=4su2MqY3vjA)
-![My UN Campaign Gameplay Pt 2](https://www.youtube.com/watch?v=s51ixn-qb5A&t=1971s)
+- [My UN Campaign Gameplay Pt 1](https://www.youtube.com/watch?v=4su2MqY3vjA)
+- [My UN Campaign Gameplay Pt 2](https://www.youtube.com/watch?v=s51ixn-qb5A&t=1971s)
 
 Fortunately, I have developed a habit of recording my gameplay for future reference, so that other people who want to attempt a similar challenge may find it useful. There are already many guides available to help you succeed in Ultra Nightmare mode and obtain that coveted gold slayer skin to show off to your friends. I will provide links to all of them below, along with my current keybindings.
 
