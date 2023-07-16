@@ -13,8 +13,8 @@ menu:
         - name: Projects
           url: /projects/
           weight: 45
-        - name: Notes
-          url: /notes/
+        - name: Cheat Sheet
+          url: /cheat-sheet/
           weight: 60
 
 params:
