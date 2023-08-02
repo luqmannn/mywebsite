@@ -11,6 +11,8 @@ topic: powershell command
 This command is helpful in cases where you are experiencing network connectivity issues due to misconfigured network settings. Keep in mind that resetting the TCP/IP stack will remove any custom network configurations you may have made, including static IP addresses and custom DNS settings. Restarting the computer is required before the default settings take effect.
 ```
 netsh int ip reset
+```
+```
 netsh int ipv6 reset
 ```
 
@@ -21,7 +23,7 @@ netsh advfirewall reset
 ```
 ​
 ### Resets Winsock Catalog to a clean state. 
-it will reset the Winsock catalog and may resolve various network-related issues, such as internet connection problems, network errors, and socket-related errors. It is often used as a troubleshooting step when you are experiencing network connectivity problems that are not related to the Windows Firewall or TCP/IP settings. It's always a good idea to create a backup or a system restore point. This precaution can help you revert to a stable state in case anything goes wrong during the process.
+It will reset the Winsock catalog and may resolve various network-related issues, such as internet connection problems, network errors, and socket-related errors. It is often used as a troubleshooting step when you are experiencing network connectivity problems that are not related to the Windows Firewall or TCP/IP settings. It's always a good idea to create a backup or a system restore point. This precaution can help you revert to a stable state in case anything goes wrong during the process.
 ```
 netsh winsock reset
 ```
@@ -38,7 +40,7 @@ ipconfig /flushdns
 ipconfig /registerdns
 ```
 
-### Show Wifi password in Windows 10
+### Show Wifi password
 ```
 netsh wlan show profile "<wifi-name>" key=clear | findstr Key
 ```
