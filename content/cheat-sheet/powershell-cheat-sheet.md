@@ -54,3 +54,19 @@ netsh wlan show profile "<wifi-name>" key=clear | Select-String "Key Content|Aut
 ```
 Get-Content (Get-PSReadlineOption).HistorySavePath
 ```
+
+### Get SHA-256 hash from a file
+```
+Get-FileHash .\ventoy-1.0.93-windows.zip | Format-List
+```
+
+### From SHA-256 hash, do verfication of file integrity
+```
+$filehash=Get-FileHash .\ventoy-1.0.93-windows.zip
+$filehash.hash
+$filehash.hash -eq "2e887f24ace92596d5b7b9c21eabc8f9065bfaf43d27833bf0eac96da390114c"
+```
+- Putting everything together in one-liner as future reference.
+```
+(Get-FileHash .\ventoy-1.0.93-windows.zip).hash -eq "2e887f24ace92596d5b7b9c21eabc8f9065bfaf43d27833bf0eac96da390114c"
+```

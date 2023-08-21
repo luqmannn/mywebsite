@@ -30,13 +30,7 @@ params:
 
           Hello, welcome to my corner of the internet.
 
-          I am Linux and open source enthusiast, a CS grad.
-
-          I have been working in IT for some time, both during past 
-          
-          internships (during diploma and degree programs) and after 
-          
-          completing my diploma until now. 
+          I am Linux and open source enthusiast. 
         imageUrl: "/images/profile.png"
         imageTitle: my image
         # imageWidth: 120
@@ -52,6 +46,8 @@ params:
           url: "https://ko-fi.com/luqmannnh"
         - name: github
           url: "https://github.com/luqmannn/"
+        - name: youtube
+          url: https://www.youtube.com/@luqmanhamdan9285/videos
         
       # add more social icons. find more in svg.html file
       # - name: youtube
