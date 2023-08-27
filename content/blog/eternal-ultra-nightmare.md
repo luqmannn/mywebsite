@@ -3,8 +3,10 @@ title: Completing DOOM Eternal Ultra Nightmare Challenge
 
 date: 2023-06-11
 type: page
-description: doom eternal
-topic: game
+categories:
+    - Game
+tags:
+    - DOOM Eternal
 ---
 
 Recently, I completed the DOOM Eternal Ultra Nightmare challenge, which is available in the base campaign of the game. It is one of the hardest and most hardcore difficulty settings that will make your heart race and send your brain into a full adrenaline rush. The goal is simple: you play the game on Nightmare difficulty with one significant twist - you cannot die at all.
