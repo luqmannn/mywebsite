@@ -1,5 +1,7 @@
 ---
 title: Completing DOOM Eternal Ultra Nightmare Challenge
+
+date: 2023-06-11
 type: page
 description: doom eternal
 topic: game
