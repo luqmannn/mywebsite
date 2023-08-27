@@ -1,8 +1,13 @@
 ---
 title: Powershell cheat sheet
+
+date: 2023-08-02
 type: page
-description: Powershell cheat sheet for IT support
-topic: powershell command
+categories:
+    - Windows
+tags:
+    - Cheat sheet
+    - Powershell
 ---
 
 ## Network command

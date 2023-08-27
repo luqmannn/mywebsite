@@ -1,8 +1,14 @@
 ---
 title: Install DOOM Eternal Mods in Linux
+
+date: 2023-02-26
 type: page
-description: Enhance your gaming experience
-topic: doom
+categories:
+    - DOOM
+tags:
+    - Eternal
+    - Game
+    - Fedora
 ---
 
 ### Introduction

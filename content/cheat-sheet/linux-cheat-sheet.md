@@ -6,7 +6,8 @@ type: page
 categories:
     - Linux
 tags:
-    - Tips and tricks
+    - Cheat sheet
+    - Bash
 ---
 
 ## System

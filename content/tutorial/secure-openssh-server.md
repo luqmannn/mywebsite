@@ -1,8 +1,13 @@
 ---
 title: Securing the OpenSSH server
+
+date: 2023-05-07
 type: page
-description: Secure SSH
-topic: ssh
+categories:
+    - Linux
+tags:
+    - SSH 
+    - Bash
 ---
 
 - There are 2 important files for SSH configuration:

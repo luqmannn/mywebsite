@@ -1,8 +1,13 @@
 ---
 title: Things To Do After Installing Fedora 37
+
+date: 2023-06-11
 type: page
-description: What to do after the installation process
-topic: linux
+categories:
+    - Linux
+tags:
+    - Bash
+    - Fedora
 ---
 
 ## Configure DNF package manager

@@ -1,8 +1,14 @@
 ---
 title: Setting Up Fedora 37 for Gaming
+
+date: 2023-02-26
 type: page
-description: How to setup Linux distribution as a gaming PC
-topic: linux
+categories:
+    - DOOM
+tags:
+    - Eternal
+    - Game
+    - Fedora
 ---
 
 ### Install Steam

@@ -1,8 +1,13 @@
 ---
- title: Everything About OpenSSH
- type: page
- description: Use OpenSSH
- topic: 
+title: Everything About OpenSSH
+
+date: 2023-03-05
+type: page
+categories:
+    - Linux
+tags:
+    - SSH 
+    - Bash
 ---
 
 ### Introduction

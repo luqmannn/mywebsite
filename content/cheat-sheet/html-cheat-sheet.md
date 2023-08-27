@@ -1,8 +1,13 @@
 ---
 title: HTML cheat sheet
+
+date: 2023-03-15
 type: page
-description: HTML cheat sheet to copy and paste
-topic: web dev
+categories:
+    - Web dev
+tags:
+    - Cheat sheet
+    - HTML
 ---
 
 ## Element Content
