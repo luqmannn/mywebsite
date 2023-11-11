@@ -40,12 +40,12 @@ sudo dnf update
 ```
 sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
 sudo dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
-sudo dnf groupupdate core
+sudo dnf group update core
 ```
 
 ### Debloat
 ```
-sudo dnf remove ffmpeg-free libswscale-free libreoffice* video rhythmbox gnome-maps totem
+sudo dnf remove gnome-online-accounts gnome-text-editor gnome-maps gnome-software ffmpeg-free libswscale-free libreoffice* video rhythmbox totem
 ```
 
 ### Run firmware updates
@@ -66,7 +66,7 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
 
 ### Install extra software
 ```
-sudo dnf install jetbrains-mono-fonts-all unrar unzip lshw neofetch tldr ffmpeg mpv yt-dlp perl-Image-ExifTool gsmartcontrol gnome-tweaks telegram-desktop 
+sudo dnf install jetbrains-mono-fonts-all unrar unzip lshw neofetch tldr ffmpeg mpv yt-dlp libexif gsmartcontrol gnome-tweaks telegram-desktop
 ```
 
 #### Codium
