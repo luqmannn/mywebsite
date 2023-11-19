@@ -27,6 +27,7 @@ Storage: Micron_2400_MTFDKBA512QFM 512GB NVMe SSD
 printf "%s" "
 max_parallel_downloads=7
 fastestmirror=true
+deltarpm=false
 " | sudo tee -a /etc/dnf/dnf.conf
 ```
 > I didn't set `deltarpm=true` simply because it will eat more cpu resources in order to compress the download file into smaller size but this has failed few times. I'd say the the smaller file size was negligable.
@@ -45,8 +46,9 @@ sudo dnf group update core
 
 ### Debloat
 ```
-sudo dnf remove gnome-online-accounts gnome-text-editor gnome-maps gnome-software ffmpeg-free libswscale-free libreoffice* video rhythmbox totem
+sudo dnf remove gnome-text-editor gnome-maps gnome-software ffmpeg-free libswscale-free libreoffice* video rhythmbox totem
 ```
+> Removing `gnome-online-accounts` would result in removing the following protected packages: `gnome-shell` which could cause Fedora to break. Fortunately, Fedora has put up safety measures to prevent system breakage, unless the user forecfully removing it by add `--skip-broken`
 
 ### Run firmware updates
 > Make sure to plug-in the laptop first before running the command below.
@@ -64,10 +66,23 @@ sudo dnf install fedora-flathub-remote
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 ```
 
-### Install extra software
+#### Install Flatpak software from Flathub
 ```
-sudo dnf install jetbrains-mono-fonts-all unrar unzip lshw neofetch tldr ffmpeg mpv yt-dlp libexif gsmartcontrol gnome-tweaks telegram-desktop
+flatpak install flathub com.mattjakeman.ExtensionManager
+flatpak install flathub com.github.tchx84.Flatseal
+flatpak install flathub com.spotify.Client
+flatpak install flathub com.discordapp.Discord
 ```
+
+### Install extra packages
+```
+sudo dnf install unrar unzip lshw neofetch tldr ffmpeg mpv yt-dlp libexif gsmartcontrol gnome-tweaks telegram-desktop
+```
+> Fonts can be downloaded from [NerdFont](https://www.nerdfonts.com/font-downloads)
+- [JetBrainsMono](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/JetBrainsMono.zip)
+- [NerdFontSymbols](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/NerdFontsSymbolsOnly.zip)
+- [SourceCodePro](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/SourceCodePro.zip)
+- [UbuntuMono](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/UbuntuMono.zip)
 
 #### Codium
 ```
