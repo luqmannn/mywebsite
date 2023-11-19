@@ -1,7 +1,7 @@
 ---
 title: Things To Do After Installing Fedora 38
 
-date: 2023-10-29
+date: 2023-11-20
 type: page
 categories:
     - Linux
