@@ -44,7 +44,7 @@
         <div class="logo">
             {{- $label_text := (.Site.Params.label.text | default .Site.Title) }}
             {{- if .Site.Title }}
-            <a href="https://luqmannn.xyz/{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
+            <a href="https://luqmannn.dev/{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
                 {{- if .Site.Params.label.icon }}
                 <img src="{{- .Site.Params.label.icon | absURL -}}" alt="logo" aria-label="logo"
                     height="{{- .Site.Params.label.iconHeight | default "30" -}}">
@@ -102,7 +102,7 @@
         {{- $currentPage := . }}
         <ul id="menu">
             <li>
-                <a href="https://luqmannn.xyz/" title="Home"><span>Home</span></a>
+                <a href="https://luqmannn.dev/" title="Home"><span>Home</span></a>
             </li>
             {{- range .Site.Menus.main }}
             {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
