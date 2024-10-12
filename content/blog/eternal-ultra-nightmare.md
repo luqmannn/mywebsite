@@ -75,8 +75,8 @@ For me, ever since discovering the Heavy Cannon's Precision Bolt mod capability,
 
 ### Insanely Difficult Challenge (modded content)
 - [DOOM Eternal - All Bosses (NO DAMAGE)](https://www.youtube.com/watch?v=2Nfbt8hfH-Y)
-- [This Encounter is WAY HARDER without the MOST POWERFUL Weapons | DOOM Eternal](https://www.youtube.com/watch?v=4cbRbDOaMac)
-- [Beating the Hardest DOOM Eternal Custom Master Level on Ultra Nightmare!](https://www.youtube.com/watch?v=4kt8lOXs-2k&t=1050s)
+- [This Encounter CBT/PTSD is WAY HARDER without the MOST POWERFUL Weapons](https://www.youtube.com/watch?v=4cbRbDOaMac)
+- [Custom CBT Master Level on Ultra Nightmare!](https://www.youtube.com/watch?v=4kt8lOXs-2k&t=1050s)
 
 ### Weapon Tech (very useful even for non-speedrunner)
 - [Sylar Lock-On Burst (SLOB)](https://www.youtube.com/watch?v=H_k7ZgLTXXw&pp=ygUac3lsYXIgZG9vbSBldGVybmFsIGxvY2sgb24%3D)
